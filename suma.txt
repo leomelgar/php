@@ -1,0 +1,1 @@
+#funcion para sumar dos numeros en ph en php..
