@@ -1,0 +1,2 @@
+#funcion para sumar dos numeros en ph en php..
+$var1 + $var2=$resutl
